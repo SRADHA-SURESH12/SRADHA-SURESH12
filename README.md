@@ -1,2 +1,2 @@
-# Learning git and github
- hELLLO THERE!
+
+Hello there, Myself Sradha a final year CSE student.
