@@ -6,3 +6,4 @@
 
 [![Sradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRADHA-SURESH12)](https://github.com/SRADHA-SURESH12/github-readme-stats)
 
+<!--START_SECTION:activity-->
